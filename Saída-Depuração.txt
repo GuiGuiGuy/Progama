@@ -1,0 +1,12 @@
+﻿"Ex2.exe" (Win32): Carregado "C:\Users\aluno\Documents\dell\Ex2\x64\Debug\Ex2.exe". Símbolos carregados.
+"Ex2.exe" (Win32): Carregado "C:\Windows\System32\ntdll.dll". Carregamento do símbolo desabilitado pela configuração de inclusão/exclusão.
+"Ex2.exe" (Win32): Carregado "C:\Windows\System32\kernel32.dll". Carregamento do símbolo desabilitado pela configuração de inclusão/exclusão.
+"Ex2.exe" (Win32): Carregado "C:\Windows\System32\KernelBase.dll". Carregamento do símbolo desabilitado pela configuração de inclusão/exclusão.
+"Ex2.exe" (Win32): Carregado "C:\Windows\System32\vcruntime140d.dll". Carregamento do símbolo desabilitado pela configuração de inclusão/exclusão.
+"Ex2.exe" (Win32): Carregado "C:\Windows\System32\ucrtbased.dll". Carregamento do símbolo desabilitado pela configuração de inclusão/exclusão.
+O thread 17572 foi fechado com o código 0 (0x0).
+"Ex2.exe" (Win32): Carregado "C:\Windows\System32\kernel.appcore.dll". Carregamento do símbolo desabilitado pela configuração de inclusão/exclusão.
+"Ex2.exe" (Win32): Carregado "C:\Windows\System32\msvcrt.dll". Carregamento do símbolo desabilitado pela configuração de inclusão/exclusão.
+O thread 24160 foi fechado com o código 0 (0x0).
+O thread 14040 foi fechado com o código 0 (0x0).
+O programa "[8088] Ex2.exe" foi fechado com o código 0 (0x0).
